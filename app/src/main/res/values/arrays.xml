@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_items">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Purple</item>
+    </string-array>
+
+    <string-array name="list_items_values">
+        <item>red</item>
+        <item>blue</item>
+        <item>purple</item>
+    </string-array>
+
+
+
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Preference</string>
+
+<!--    Preference items keys-->
+    <string name="age_key">AGE</string>
+    <string name="checkbox_key">CHECKBOX</string>
+    <string name="choice_list_key">Choice_list</string>
+
+<!--    Preference items title -->
+    <string name="checkbox_title">Dark Theme</string>
+    <string name="choice_list_title">Color Choice</string>
+    <string name="age_title">Age</string>
+
+<!--    Preference items default values -->
+
+    <string name="checkbox_default">false</string>
+    <string name="choice_list_default">red</string>
+    <string name="age_default">1</string>
+
+<!--    Preference Checkbox summary -->
+
+    <string name="summary_on">Enabled</string>
+    <string name="summary_off">Disabled</string>
+</resources>
